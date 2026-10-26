@@ -1,6 +1,6 @@
 ﻿# Power BI Sales Report (PBIP)
 
-A sales analytics report built in Power BI and saved in the **Power BI Project (PBIP)** format.
+A sales analytics report built in Power BI.
 
 The report tracks sales, orders, customers, and shipping performance, and compares each metric with the previous month and the previous year.
 
