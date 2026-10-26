@@ -16,7 +16,6 @@ The report tracks sales, orders, customers, and shipping performance, and compar
 
 ## Data model
 
-A star schema loaded from a Microsoft Fabric warehouse (`lh_gold` gold layer):
 
 | Table | Type | Description |
 | --- | --- | --- |
