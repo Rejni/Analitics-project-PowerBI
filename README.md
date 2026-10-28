@@ -1,4 +1,4 @@
-﻿# Power BI Sales Report (PBIP)
+﻿# Power BI Sales Report
 
 A sales analytics report built in Power BI.
 
